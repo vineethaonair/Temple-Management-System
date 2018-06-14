@@ -1,2 +1,3 @@
 # Temple-Management-System
-This is a git Repositary for Temple Management System.
+This is a git repositary for Temple Management System.
+This is a first of MCA
